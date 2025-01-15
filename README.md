@@ -1,6 +1,7 @@
 # audio_appv2
 
 A new Flutter project.
+![image](https://github.com/user-attachments/assets/1f6d85b9-bfda-4dc5-a5f1-1c46447989b6)
 
 ## Getting Started
 
